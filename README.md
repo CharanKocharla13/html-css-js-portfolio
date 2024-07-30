@@ -23,9 +23,9 @@ To view the website locally:
    ```bash
    git clone https://github.com/your-username/your-portfolio.git
 2. Navigate to the project directory:
-   '''bash
+   ```bash
    cd your-portfolio
-3. Open 'index.html' in your web browser.
+3. Open `index.html` in your web browser.
 
 ## Contribution
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
