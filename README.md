@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-Welcome to my Personal Portfolio Website! This repository contains the source code for my personal portfolio, designed to highlight my skills, projects, and experience as a fresher in the software developer roles.
+Welcome to my Personal Portfolio Website! This repository contains the source code for my personal portfolio, designed to highlight my skills, projects, and experience as a fresher towards software developer roles.
 
 ## Features
 
